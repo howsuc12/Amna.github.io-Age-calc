@@ -14,7 +14,7 @@ Computes Body Mass Index with visual scale
 ✅ **Dark mode** - Eye-friendly theme  
 
 ## Live Demos
-- Age Calculator: [https://howsuc12.github.io/age-calculator.html](https://howsuc12.github.io/age-calculator.html)
+- Age Calculator: [https://howsuc12.github.io/age-calculator.html](https://github.com/howsuc12/Amna.github.io-Age-calc)
 - BMI Calculator: [https://howsuc12.github.io/bmi-calculator.html](https://howsuc12.github.io/bmi-calculator.html)
 
 ## How to Use
